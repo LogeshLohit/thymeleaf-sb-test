@@ -11,6 +11,7 @@
 	</parent>
 	<groupId>com.logesh</groupId>
 	<artifactId>thymeleaf-test</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>thymeleaf-test</name>
 	<description>Demo project for Spring Boot</description>
